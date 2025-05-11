@@ -6,3 +6,5 @@ The user and passkey is "root", return at the end (press <enter> key) to exit.
 If you want to check the source, it's available :)
 
 *Don't mind the python file, people wouldn't trust pyHook, so went back to C. But the py script is just for fun and does nothing interesting.*
+
+I tested this only in Windows 11 23H2.
